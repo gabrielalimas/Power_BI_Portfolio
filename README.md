@@ -1,1 +1,3 @@
-# Power_BI_Portfolio
+# Portfólio Power BI
+
+Dashboards que elaborei durante meus estudos sobre Power BI:
